@@ -1,0 +1,5 @@
+1. Leia e armazene o numero que se deseja multiplicar por 9 #entrada
+2. subtrair n-1 e armazenar como primeiro digito n1 #processamento 
+3. subtrair 10-n e armazenar como segundo digito n2 #processamento
+4. realize a expressão (n1 x 10)+n2 e armazene o resultado final r #processamento
+5. apresente r e encerre o programa #saida
